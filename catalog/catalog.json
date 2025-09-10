@@ -1,0 +1,9 @@
+[
+  {
+    "id": "ibiza",
+    "title": "Ibiza",
+    "description": "Ibiza video.",
+    "poster": "/videos/ibiza/poster.jpg",
+    "hls": "/videos/ibiza/out_0/index.m3u8"
+  }
+]

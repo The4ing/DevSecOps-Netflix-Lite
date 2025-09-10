@@ -1,0 +1,16 @@
+node_modules/
+.next/
+dist/
+build/
+*.log
+.DS_Store
+.env
+*.pem
+*.key
+# media
+*.mp4
+*.mkv
+*.m3u8
+*.ts
+*.m4s
+out_*/
